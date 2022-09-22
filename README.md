@@ -19,4 +19,4 @@ I think it might not be necessary because I ran the program on another screen an
 
 The reason I used the esp 8266 is because it is a lot faster than arduino and can handle the backtracking a lot better. I did optimize the code so that much of the 
 board or even all of it is filled in before the backtracking (depending on board difficulty) which does minimize a lot of the work the backtracking has to do but
-even then arduino is a lot slower. ESP microcontrollers are also cheap to buy and they have wifi so they are very versatile.
+even with the optimizations it is still slow on Arduino. ESP microcontrollers are also cheap and they have wifi so they are very versatile.

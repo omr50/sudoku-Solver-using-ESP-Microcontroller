@@ -1,4 +1,4 @@
-# sudokuSolverEspMicrocontroller
+# sudoku Solver Esp Microcontroller
 sudoku solver using ESP8266 microcontoller and ILI9341 touch screen lcd using Arduino IDE C++
 
 description:
